@@ -1,0 +1,103 @@
+/*
+font-family: 'Handlee',
+cursive;
+font-family: 'Montserrat',
+sans-serif;
+font-family: 'Roboto',
+sans-serif;
+*/
+/*banner*/
+body{
+    background-color: #333;
+    color: #fff;
+    font-family: 'Roboto',
+            sans-serif;
+}
+.navbar{
+    border-bottom: 3px solid #2f1c9aa7;
+    background: #292b2c;
+    opacity: 0.7;
+}
+.navbar .fiexd-top{
+    padding: 8px;
+}
+
+.dark-overlay {
+    background: rgba(0, 0, 0, 0.7);
+}
+
+#home{
+    background-image: url(../img/pexels-fauxels-3184432.jpg);
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+#home .card{
+    opacity: 0.8;
+}
+.home-inner {
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+#home i{
+    background: #fff;
+    color: #008ED6;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+#explore{
+    background-color: #fff;
+        color: #333f;
+}
+#explore-hero div .container {
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+
+#explore i{
+    background: #333;
+    color: #fff;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+#create-hero {
+    background-color: #007BFF;
+    color: #fff;
+}
+
+#create {
+    background-color: #333;
+    color: #fff;
+}
+
+#create i {
+    background: #fff;
+    color: #008ED6;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+#share-hero {
+    background-color: #007BFF;
+    color: #fff;
+}
+
+#share {
+    background-color: #fff;
+    color: #333;
+}
+
+#share i {
+    background: #333;
+    color: #fff;
+    padding: 4px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
